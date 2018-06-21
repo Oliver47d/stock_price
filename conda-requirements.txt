@@ -1,8 +1,9 @@
 pandas
+numpy
 bokeh
 dill
 flask
 jinja2
 pip
 simplejson
-quandl 
+quandl
