@@ -1,5 +1,6 @@
 from flask import Flask,render_template,request,redirect
 import numpy as np
+import os
 import quandl
 import datetime
 from bokeh.plotting import figure
