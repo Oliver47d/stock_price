@@ -7,4 +7,3 @@ jinja2
 pip
 simplejson
 quandl
-os
